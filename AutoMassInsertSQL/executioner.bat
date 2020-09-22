@@ -1,0 +1,1 @@
+OSQL -S dbsvr -U sa -P  -i Scripts\1235151215.txt -o Parsed.txt
